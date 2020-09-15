@@ -1,5 +1,4 @@
-
-  nav{
+nav{
     background-color:maroon;
     position:fixed;
     width:100%;
@@ -15,28 +14,12 @@
     list-style-type: none;
      justify-content: right;  
 }
-body{
-  background-color: cornsilk;
-  text-align: center;
-  margin:80px;
-  
-}
-h2{
-  text-align: center;
-  padding: 10px 10p;
-}
-h1{
-  text-align: center;
-  padding: 10px 10px;
-}
-
 div ul li{
-      display: inline;
-      margin: 30px;
-      list-style-type: none;
-  }
-
-  #footer {
+    display: inline;
+    margin: 30px;
+    list-style-type: none;
+}
+#footer {
     background-color: maroon;
     text-align: center;
     font-style: normal;
