@@ -15,4 +15,23 @@
     list-style-type: none;
      justify-content: right;  
 }
+body{
+  background-color: cornsilk;
+  text-align: center;
+  margin:80px;
   
+}
+h2{
+  text-align: center;
+  padding: 10px 10p;
+}
+h1{
+  text-align: center;
+  padding: 10px 10px;
+}
+
+div ul li{
+      display: inline;
+      margin: 30px;
+      list-style-type: none;
+  }
