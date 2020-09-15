@@ -1,0 +1,18 @@
+
+  nav{
+    background-color:maroon;
+    position:fixed;
+    width:100%;
+    top:0;
+    left:0;
+    display: flex;
+    padding-bottom: 0px;
+     justify-content: center;
+  }
+  nav>ul>li {
+    display: inline;
+    margin:70px;
+    list-style-type: none;
+     justify-content: right;  
+}
+  
