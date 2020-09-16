@@ -1,0 +1,34 @@
+nav {
+    background-color: maroon;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    padding-top: 10px;
+    justify-content: center;
+}
+
+nav>ul>li {
+    display: inline;
+    margin: 70px;
+    list-style-type: none;
+    justify-content: right;
+    color: white;
+}
+
+#footer {
+    background-color: maroon;
+    text-align: center;
+    font-style: normal;
+    padding-bottom: 10px;
+    color: black;
+    position: relative;
+    padding-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+li>a {
+    color: black;
+}
