@@ -16,6 +16,10 @@
                 justify-content: right;
             }
             
+            a {
+                text-decoration: none;
+            }
+            
             body {
                 background-color: cornsilk;
                 text-align: center;
@@ -65,4 +69,16 @@
             
             .button {
                 text-align: center;
+            }
+            
+            footer {
+                background-color: maroon;
+                text-align: center;
+                font-style: normal;
+                width: 100%;
+                margin-bottom: 0;
+                /* position: inherit; */
+                /* bottom: 0;
+                width: 100%;
+                height: 2.5rem; */
             }
