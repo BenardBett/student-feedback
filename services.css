@@ -19,6 +19,7 @@ nav {
     display: flex;
     padding-top: 10px;
     justify-content: center;
+    height: 5em;
 }
 
 nav>ul>li {
@@ -26,6 +27,7 @@ nav>ul>li {
     margin: 70px;
     list-style-type: none;
     justify-content: right;
+    font-size: 1.9em;
     /* color: white; */
 }
 
