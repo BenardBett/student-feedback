@@ -16,6 +16,10 @@ nav>ul>li {
     justify-content: right;
 }
 
+a {
+    text-decoration: none;
+}
+
 h2 {
     text-align: center;
     padding: 10px 10p;
@@ -61,7 +65,7 @@ table {
     text-align: center;
 }
 
-#footer {
+footer {
     background-color: maroon;
     text-align: center;
     font-style: normal;
